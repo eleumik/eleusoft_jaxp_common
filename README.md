@@ -8,7 +8,7 @@ This package is an helper of implementations of the [JAXP](http://en.wikipedia.o
 Related Projects
 ----------------
 
-[eleusoft_jaxp_tests](https://github.com/eleumik/eleusoft_jaxp_tests) - JAXP XPath Test Suite
+[eleusoft_jaxp_xpath_tests](https://github.com/eleumik/eleusoft_jaxp_xpath_tests) - JAXP XPath Test Suite
 
 [eleusoft_jaxp_jxpath](https://github.com/eleumik/eleusoft_jaxp_jxpath) - JAXP XPath for JXPath
 
